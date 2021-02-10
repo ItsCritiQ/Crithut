@@ -1,3 +1,2 @@
-This is the source code for the Crithut Website!
-Made by NightMX and CritiQ Himself!
+This is the source code for the Crithut Website made by CritiQ and NightMX!
 © ItsCritiQ 2021
